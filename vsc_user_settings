@@ -1,0 +1,16 @@
+{
+    "workbench.colorTheme": "Ayu Mirage Bordered",
+    "python.pythonPath": "/Library/Frameworks/Python.framework/Versions/3.7/bin/python3",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "editor.formatOnSave": true,
+    "workbench.iconTheme": "vscode-icons",
+    "code-runner.executorMap": {
+        "python": "python3"
+    },
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.showExecutionMessage": false,
+    "vsicons.dontShowNewVersionMessage": true,
+    "window.zoomLevel": 0,
+    "editor.largeFileOptimizations": false
+}
